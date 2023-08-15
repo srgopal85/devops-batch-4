@@ -5,3 +5,7 @@ git commit -m "comment"
 git config --global user.name <username>
 git clone 
 git remote -v
+git clone 
+git pull
+git fetch 
+git push
