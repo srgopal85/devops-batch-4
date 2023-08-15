@@ -3,3 +3,5 @@ git add <filename>
 git rm --cache .. to unstage 
 git commit -m "comment"
 git config --global user.name <username>
+git clone 
+git remote -v
