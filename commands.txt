@@ -1,1 +1,5 @@
+Adding commands in GIt for practise 
+## From Git to local repository###
+This is a test file
+Git init
 
